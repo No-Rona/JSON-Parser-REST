@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JSON-Parser-REST</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="onodera">Onodera is my waifu</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_object_button">Get Object</string>
+    <string name="display_object_view_text">Click on the button</string>
+
+</resources>
